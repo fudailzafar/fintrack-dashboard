@@ -32,7 +32,7 @@ A modern, responsive financial dashboard built with React to track income, expen
 
 ```bash
 # 1. Clone the repository
-git clone <repo-url>
+git clone https://github.com/fudailzafar/fintrack-dashboard
 cd fintrack-dashboard
 
 # 2. Install dependencies
